@@ -52,7 +52,7 @@
 					"offset" : [ 0.0, 0.0 ],
 					"outlettype" : [ "signal", "signal", "", "list", "int", "", "", "" ],
 					"patching_rect" : [ 15.0, 135.0, 600.0, 36.0 ],
-					"save" : [ "#N", "vst~", "loaduniqueid", 0, "/Users/juangil/Documents/Programming/JUCE/Audio-Effects/Ping-Pong Delay/Products/VST3/Ping-Pong Delay.vst3", ";" ],
+					"save" : [ "#N", "vst~", "loaduniqueid", 0, "/Users/Documents//JUCE/Audio-Effects/Ping-Pong Delay/Products/VST3/Ping-Pong Delay.vst3", ";" ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_invisible" : 1,
@@ -128,7 +128,7 @@
 
 					}
 ,
-					"text" : "vst~ \"/Users/juangil/Documents/Programming/JUCE/Audio-Effects/Ping-Pong Delay/Products/VST3/Ping-Pong Delay.vst3\"",
+					"text" : "vst~ \"/Users/Documents/JUCE/Audio-Effects/Ping-Pong Delay/Products/VST3/Ping-Pong Delay.vst3\"",
 					"varname" : "vst~",
 					"viewvisibility" : 1
 				}
